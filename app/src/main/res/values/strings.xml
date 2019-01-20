@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="search">Wyszukaj</string>
+    <string name="edit">Edytuj</string>
+    <string name="delete">Usuń</string>
+    <string name="add_resource">Dodawanie nowego zasobu</string>
+    <string name="add">Dodaj</string>
+    <string name="edit_resource">Edycja zasobu</string>
+    <string name="title_activity_attributes">AttributesActivity</string>
+    <string name="title_activity_choose_option">ChooseOptionActivity</string>
+    <string name="rooms_list">Lista pokoi</string>
+    <string name="resources_list">Lista zasobów</string>
+    <string name="add_room">Dodaj pokój</string>
+    <string name="edit_room">Edytuj pokój</string>
+    <string name="processing">Przetwarzanie...</string>
+    <string name="login">Zaloguj się</string>
+    <string name="register">Rejestracja</string>
+    <string name="choose_option">Wybierz opcję</string>
+    <string name="room_resources">Zasoby pokoju</string>
+    <string name="list_attributes">Lista atrybutów</string>
+</resources>
